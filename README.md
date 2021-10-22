@@ -1,8 +1,5 @@
 # DrawIt
-=============================
 
-Description
-------------
 
 A very simple painting app which is similar to Microsfot Paint. This is made using python3, with help of pygame module.
 
