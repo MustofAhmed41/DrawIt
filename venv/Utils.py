@@ -1,0 +1,19 @@
+
+SCREEN_SIZE_WIDTH = 900
+SCREEN_SIZE_HEIGHT = 800
+
+STROKE_LENGTH_EXTRA_SMALL = 5
+STROKE_LENGTH_SMALL = 10
+STROKE_LENGTH_MEDIUM = 15
+STROKE_LENGTH_LARGE = 20
+
+COLOR_WHITE = (255, 255, 255)
+COLOR_BLUE = (0, 0, 255)
+COLOR_RED = (255, 0, 0)
+COLOR_BLACK = (0, 0, 0)
+
+
+class Util:
+    def __init__(self):
+        self.stroke_length = STROKE_LENGTH_EXTRA_SMALL
+        self.selected_color = (255, 255, 255)
