@@ -12,6 +12,7 @@ Project Functionality and Key Features
   * `Load Picture` - Load Picture and then you can draw on it
 
 
+**Video Demonstration - https://www.youtube.com/watch?v=Mh-BXwlllYM**
 
 Screenshots
 --------------------------
